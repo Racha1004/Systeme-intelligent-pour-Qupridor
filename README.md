@@ -80,3 +80,4 @@ Vous comparerez chacune de ces stratégies en les faisant jouer les unes contre 
 ### Semaine 4
 **Soutenances**. Celles-ci ont lieu en binôme. Vous présenterez les principaux résultats de votre projet.
 Le rapport doit être rédigé en markdown dans le fichier prévu à cet effet dans le répertoire `docs` (voir le template `rapport.md`).
+# Systeme-intelligent-pour-Qupridor
